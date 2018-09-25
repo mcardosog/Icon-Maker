@@ -1,0 +1,26 @@
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\IconMaker 1.0.exe
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\IconMaker 1.0.pdb
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.Properties.Resources.resources
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.csproj.GenerateResource.Cache
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.exe
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.pdb
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.AcercaDe.resources
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.form_IconMaker.resources
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.NuevoIcono.resources
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.csprojResolveAssemblyReference.cache
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\LogicaLogica_IconMaker.dll
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\LogicaLogica_IconMaker.pdb
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.exe
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.pdb
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\IconMaker 1.0.exe
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\IconMaker 1.0.pdb
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\LogicaLogica_IconMaker.dll
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\bin\Debug\LogicaLogica_IconMaker.pdb
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.csprojResolveAssemblyReference.cache
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.AcercaDe.resources
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.form_IconMaker.resources
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.NuevoIcono.resources
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker_1._0.Properties.Resources.resources
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.csproj.GenerateResource.Cache
+D:\Projects\UH\IconMaker 1.2 Final\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.exe
+D:\Projects\UH\IconMaker 1.2 Final\IconMaker 1.0\IconMaker 1.0\obj\x86\Debug\IconMaker 1.0.pdb

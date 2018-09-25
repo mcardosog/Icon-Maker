@@ -1,0 +1,10 @@
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\LogicaLogica_IconMaker\bin\Debug\LogicaLogica_IconMaker.dll
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\LogicaLogica_IconMaker\bin\Debug\LogicaLogica_IconMaker.pdb
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.dll
+c:\users\solidsnake\documents\visual studio 2010\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.pdb
+C:\Users\SolidSnake\Documents\Visual Studio 2010\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.csprojResolveAssemblyReference.cache
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\LogicaLogica_IconMaker\bin\Debug\LogicaLogica_IconMaker.dll
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\LogicaLogica_IconMaker\bin\Debug\LogicaLogica_IconMaker.pdb
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.csprojResolveAssemblyReference.cache
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.dll
+C:\Users\SolidSnake\Desktop\Projects\IconMaker 1.0\LogicaLogica_IconMaker\obj\Debug\LogicaLogica_IconMaker.pdb
